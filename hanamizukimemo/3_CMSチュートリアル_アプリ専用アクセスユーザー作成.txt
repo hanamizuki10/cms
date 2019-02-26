@@ -1,0 +1,7 @@
+
+create user 'cakephp'@'localhost' identified by 'AngelF00dC4k3~';
+
+grant all on cake_cms.* to 'cakephp'@'localhost' identified by 'AngelF00dC4k3~';
+
+
+
