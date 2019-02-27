@@ -1,5 +1,5 @@
 # cms
-CakePHP3.CMSチュートリアルをやった結果を書いてます.
+CakePHP3.7の時代。2019/02/27にて「[CMSのチュートリアル](https://book.cakephp.org/3.0/ja/tutorials-and-examples.html)」をやった結果を書いてます.
 
 [1_CMSチュートリアル_DB作成.txt](/hanamizukimemo/1_CMSチュートリアル_DB作成.txt)
 このチュートリアル実施にあたって作成したDBについてメモ
