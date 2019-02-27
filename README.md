@@ -1,5 +1,5 @@
 # cms
-CakePHP3.CMSチュートリアル.
+CakePHP3.CMSチュートリアルをやった結果を書いてます.
 
 [1_CMSチュートリアル_DB作成.txt](/hanamizukimemo/1_CMSチュートリアル_DB作成.txt)
 このチュートリアル実施にあたって作成したDBについてメモ
